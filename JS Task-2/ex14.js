@@ -5,4 +5,4 @@ while (s < a) {
     s = s + i ** 2;
     i++;
 }
-console.log(i)
+console.log(s)
